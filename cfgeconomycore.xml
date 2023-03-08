@@ -34,5 +34,20 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+	<file name="weapons.xml" type="types" />
+        <file name="ammo.xml" type="types" />
+        <file name="equipment.xml" type="types" />
+        <file name="clothes.xml" type="types" />
+        <file name="tools.xml" type="types" />
+        <file name="special.xml" type="types" />
+        <file name="containers.xml" type="types" />
+        <file name="vehiclesparts.xml" type="types" />
+        <file name="food.xml" type="types" />
+        <file name="medical.xml" type="types" />
+        
+  </ce>
+
+</economycore>
+
     
 </economycore>
